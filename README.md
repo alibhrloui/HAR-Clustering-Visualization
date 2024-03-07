@@ -50,4 +50,3 @@ jupyter notebook HAR_Clustering_Visualization.ipynb
 Feel free to explore and use the notebook for your analysis or as a reference for similar projects. If you encounter any issues or have suggestions, please open an issue.
 
 Happy coding!
-```
