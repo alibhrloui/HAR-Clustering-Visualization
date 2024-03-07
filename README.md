@@ -1,4 +1,3 @@
-```markdown
 # Human Activity Recognition (HAR) Clustering and Visualization
 
 ## Overview
