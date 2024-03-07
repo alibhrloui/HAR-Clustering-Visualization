@@ -1,5 +1,3 @@
-Certainly! Here's a template for a professional README.md file that you can use for your GitHub repository:
-
 ```markdown
 # Human Activity Recognition (HAR) Clustering and Visualization
 
